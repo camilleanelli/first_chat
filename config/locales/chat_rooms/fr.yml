@@ -1,0 +1,8 @@
+fr:
+  chat_rooms:
+    chat_room:
+      enter: Entrer
+    index:
+      chat_rooms: Tous les chats
+    new:
+      add_chat_room: Ajouter un chat
